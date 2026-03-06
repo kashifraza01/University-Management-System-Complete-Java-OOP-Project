@@ -103,7 +103,7 @@ Database normalization principles and foreign key relationships were implemented
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/university-management-system.git
+git clone https://github.com/kashifraza01/University-Management-System-Complete-Java-OOP-Project.git
 ```
 
 2. Import project into **IntelliJ IDEA / NetBeans / Eclipse**
@@ -128,4 +128,3 @@ This project strengthened my understanding of:
 ## 👨‍💻 Author
 
 **Kashif Raza**
-BS Computer Science Student

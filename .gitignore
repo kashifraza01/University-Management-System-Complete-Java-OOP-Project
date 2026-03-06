@@ -1,0 +1,19 @@
+# Compiled class files
+*.class
+out/
+
+# Package files
+*.jar
+*.war
+
+# IDE project files
+.idea/
+*.iml
+.eclipse/
+.project
+.classpath
+*.prefs
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -83,15 +83,18 @@ Database normalization principles and foreign key relationships were implemented
 
 ---
 
-## 📷 Screenshots
+## 📸 Screenshots
 
-```
-![Dashboard Screenshot](1.png)
-![Marks Entry Screenshot](screenshot/2.png)
-![About Me Screenshot](screenshot/5.png)
-![About Me Screenshot](5.png)
-![About Me Screenshot](https://github.com/kashifraza01/University-Management-System-Complete-Java-OOP-Project/blob/2fb1fac899347b90c8ffc4bdae68cca932d08d26/1.png)
-```
+<p align="center">
+  <img src="Screenshots/1.png" width="45%">
+  <img src="Screenshots/2.png" width="45%">
+</p>
+
+<p align="center">
+  <img src="Screenshots/3.png" width="45%">
+  <img src="Screenshots/4.png" width="45%">
+  <img src="Screenshots/5.png" width="45%">
+</p>
 
 ---
 
